@@ -9,7 +9,7 @@
 <br />
 
 <div align = "center">
-<img  src="./snapshot.png" alt="Project Snapshot" width="600" height="400">
+<img  src="./snapshot.png" alt="Project Snapshot" width="900" height="400">
 </div>
 <br/>
 <div align="center">
